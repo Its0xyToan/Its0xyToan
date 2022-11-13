@@ -1,1 +1,1 @@
-- 👋 Salut je suis 0xyToan ! Codeur discord.js !
+- 👋 Salut je suis 0xyToan ! Developeur node.js, j'aime le discord.js v13 ! (mais pas le 14)
