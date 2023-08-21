@@ -1,1 +1,1 @@
-- 👋 Salut je suis 0xyToan ! Developeur node.js, j'aime le discord.js v13 ! (mais pas le 14)
+- 👋 Hello ! I do sm things, like bots and complexe api with nodejs/JavaScript/TypeScript
