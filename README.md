@@ -1,1 +1,1 @@
-- 👋 Hello ! I do sm things, like bots and complexe api with nodejs/JavaScript/TypeScript
+- 👋 Hello ! I'm Toan, French, but currently in high school at Santiago de Chile. I love JavaScript and i do backend applications with it, discord bots, websites, and more !
