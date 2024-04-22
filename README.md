@@ -1,1 +1,1 @@
-- 👋 Hello ! I'm Toan, French, but currently in high school at Santiago de Chile. I love JavaScript and i do backend applications with it, discord bots, websites, and more !
+- 👋 Hello ! I'm Toan, I'm French, but currently in high school at Vancouver Canada. I love JavaScript and I do backend applications, discord bots, websites, and more !
