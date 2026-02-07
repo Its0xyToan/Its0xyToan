@@ -1,5 +1,6 @@
 # 💫 About Me:
-👋 Hey I'm Toan ! I'm French and I like to do some cool random projects to make people's lifes better, I try to always make something that hasn't been done before !<br>🪂 I'm working on a lot of projects like FluxBot, Clarty, OpenBlacklist, and more<br>🤸 I'm looking to collaborate with people that are organized ! Iove that sh-<br>🌿 I'm currently learning GoLang ! From what I see, it's a beautiful programming language
+👋 Hey I'm Toan ! I'm French and I like to do some cool random projects to make people's lifes better, I try to always make something that hasn't been done before !<br>🪂 I'm working on a lot of projects like [Tickey](https://tickety.top], Sentrix, Clarty, OpenBlacklist, and more
+Don't hesitate to contact me, usually faster on Discord
 
 
 ## 🌐 Socials:
