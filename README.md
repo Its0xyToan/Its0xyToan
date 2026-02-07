@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hey I'm Toan ! I'm French and I like to do some cool random projects to make people's lifes better, I try to always make something that hasn't been done before !<br>🪂 I'm working on a lot of projects like [Tickey](https://tickety.top), Sentrix, Clarty, OpenBlacklist, and more
+👋 Hey I'm Toan ! I'm French and I like to do some cool random projects to make people's lifes better, I try to always make something that hasn't been done before !<br>🪂 I'm working on a lot of projects like [Tickety](https://tickety.top), Sentrix, Clarty, OpenBlacklist, and more
 Don't hesitate to contact me, usually faster on Discord
 
 
