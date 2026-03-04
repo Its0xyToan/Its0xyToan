@@ -4,6 +4,7 @@ Don't hesitate to contact me, usually faster on Discord
 
 
 ## 🌐 Socials:
+[![Website](https://img.shields.io/badge/website-oxytoan.xyz-blue)](https://oxytoan.xyz)
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discordapp.com/users/713115896805064856) 
 
 # 💻 Tech Stack:
